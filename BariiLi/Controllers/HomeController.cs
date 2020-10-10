@@ -26,11 +26,18 @@ namespace BariiLi.Controllers
         public IActionResult PlasticSurgery()
         {
             return View();
-        }   
-      /*  public IActionResult Privacy()
+        }
+
+        public IActionResult PlasticDoctors()
         {
             return View();
-        }*/
+        }
+
+
+        /*  public IActionResult Privacy()
+          {
+              return View();
+          }*/
         public IActionResult ContactUs()
         {
             return View();
