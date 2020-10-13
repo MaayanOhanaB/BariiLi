@@ -34,6 +34,8 @@ namespace BariiLi.Controllers
         }
 
 
+
+
         /*  public IActionResult Privacy()
           {
               return View();
