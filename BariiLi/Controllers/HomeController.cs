@@ -23,6 +23,11 @@ namespace BariiLi.Controllers
             return View();
         }
 
+        public IActionResult Corona()
+        {
+            return View();
+        }
+
         public IActionResult PlasticSurgery()
         {
             return View();
